@@ -4,11 +4,10 @@
 
 ![Deivid GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividSilva&show_icons=true&theme=tokyonight)
 
-## Tecnologias que uso no meu dia
 
+### Tecnologias que uso no meu dia
 
-
-# Tecnologias que estou estudando
+### Tecnologias que estou estudando
 <div style="display: inline_block"><br/>
   <img aling="center" alt"cypress src="https://img.shields.io/badge/Cypress-14354C?style=for-the-badge&logo=Cypress&logoColor=white"/>
   <img aling="center" alt"cypress src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
